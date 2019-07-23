@@ -1,1 +1,7 @@
 # Postman-CompleteGuide
+
+This is a repo containing code samples from *_Postman: The Complete Guide - Rest API Testing_* course on Udemy.
+
+Here is a link to the course:
+
+[Postman: The Complete Guide - Rest API Testing](https://www.udemy.com/postman-the-complete-guide/)
