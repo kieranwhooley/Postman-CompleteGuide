@@ -1,0 +1,23 @@
+{
+    "args": {},
+    "data": "{\n\t\"name\": \"John\",\n\t\"email\": \"john@example.com\",\n\t\"id\": \"ada2e349-084d-4846-b238-27af262fba6e\"\n}\n",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate",
+        "Cache-Control": "no-cache",
+        "Content-Length": "97",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "Postman-Token": "6339fc4c-a691-4e9d-ae4b-866fd697236a",
+        "User-Agent": "PostmanRuntime/7.15.0"
+    },
+    "json": {
+        "email": "john@example.com",
+        "id": "ada2e349-084d-4846-b238-27af262fba6e",
+        "name": "John"
+    },
+    "origin": " ",
+    "url": "https://httpbin.org/post"
+}
