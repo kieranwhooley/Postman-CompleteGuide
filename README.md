@@ -10,8 +10,10 @@ Here is a link to the course:
 
 Free APIs:
 [Pokemon API](https://pokeapi.co/)
+
 [Star Wars API](https://swapi.co/)
 
 API test sites:
 [httpbin](http://httpbin.org/)
+
 [PostBin](https://postb.in/)
