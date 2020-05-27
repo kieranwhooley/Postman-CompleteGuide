@@ -1,1 +1,1 @@
-https://api.trello.com/1/boards/?name=PostmanTestBoard&key=XXX&token=XXX&defaultLists=false
+https://api.trello.com/1/boards/?name=PostmanTestBoard&key={{trellokey}}&token={{trellotoken}}&defaultLists=false

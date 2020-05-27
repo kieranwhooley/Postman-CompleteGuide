@@ -1,1 +1,1 @@
-https://api.trello.com/1/lists?name=TODO&idBoard={{boardId}}&key=XXX&token=XXX
+https://api.trello.com/1/lists?name=TODO&idBoard={{boardId}}&key={{trellokey}}&token={{trellotoken}}
