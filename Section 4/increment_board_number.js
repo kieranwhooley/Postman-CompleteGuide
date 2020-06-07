@@ -17,7 +17,7 @@ function getBoardNumberAppendedValue() {
     }
 }
 
-//create the appeneded board name
+//create the appended board name
 pm.environment.set("boardName", createBoardName());
 
 //add the board number to the board name
